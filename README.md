@@ -10,7 +10,7 @@ All relevant information is displayed on a single page in this app, by default t
 
 <table>
 <tr>
-<td>![](https://github.com/cwroberts401/pomodoro_project/blob/main/Screen%20Shot%202022-03-02%20at%2011.47.24%20AM.png)</td>
+<td><img src="https://github.com/cwroberts401/pomodoro_project/blob/main/Screen%20Shot%202022-03-02%20at%2011.47.24%20AM.png" /></td>
 
 <td>![](https://github.com/cwroberts401/pomodoro_project/blob/main/Screen%20Shot%202022-03-02%20at%2011.48.12%20AM.png)</td>
 </tr>
