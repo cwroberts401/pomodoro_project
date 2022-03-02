@@ -2,7 +2,7 @@
 
 > A simple pomodoro focus timer built using React.js
 
-A classic verison of the pomodoro timer that lets the user adjust the focus and break timers, and displays a progress bar as each session progresses. 
+A classic verison of the pomodoro timer that lets the user adjust the focus and break timers.
 
 
 ## Screenshots
